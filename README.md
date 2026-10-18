@@ -10,8 +10,10 @@ This project analyzes bank loan applications and portfolio performance using Mic
 - Total Amount Received: 473M
 - Average Interest Rate: 12.05%
 - Average DTI Ratio: 13.33%
-- Good Loans: 86.18% | Bad Loans: 13.82%
-
+- Good Loans: 86.18% | Bad Loans: 13.82%\
+  ![Dashboard Screenshot](Screenshot2026-10-18165549.png)
+  ![Dashboard Screenshot](Screenshot2026-10-18165620.png)
+  
  Tools Used
 Microsoft Power BI, Data Visualization, and KPI Analysis.
 
